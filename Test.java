@@ -7,18 +7,8 @@
 *@author  Cameron Vigil
 *@version 1.1.01
 */ 
- 
-//For each method, you will also be required to create docstring as follows:
-/**Method Detailed Description
-* @param String as args
-* @return Termination code as int, 0 for normal, anything else is error condition
-* @throws Nothing is implemented
-*/ 
 
-//import java.io.*;
 import java.util.Scanner;
-
-
 
 public class Test {
     public static void main(String[] args) {
